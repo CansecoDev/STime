@@ -1,3 +1,8 @@
+# Binaries
+bin/
+obj/
+References/
+
 # Object files
 *.o
 *.ko
@@ -30,3 +35,4 @@
 
 # Debug files
 *.dSYM/
+*.pdb
