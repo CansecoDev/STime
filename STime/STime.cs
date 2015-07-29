@@ -25,7 +25,7 @@ namespace STime
 
         public override string Author
         {
-            get { return "canseco"; }
+            get { return "Canseco"; }
         }
 
         public override string Description
